@@ -1,9 +1,9 @@
 :root {
-	--background-1: #443C6B;
-	--background-2: #483A6D;
-	--primary-colour: rgba(255, 130, 190);
-	--secondary-colour: rgb(255, 250, 120);
-	--tertiary-colour: rgb(0, 255, 255);
+	--background-1: #12121A;
+	--background-2: #1B1E25;
+	--primary-colour: rgba(255, 255, 255);
+	--secondary-colour: rgb(244, 245, 247);
+	--tertiary-colour: rgb(176, 176, 186);
 
 	font-family: 'Roboto Mono', monospace;
 	color: var(--primary-colour);
